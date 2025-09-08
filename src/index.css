@@ -17,8 +17,9 @@ All colors MUST be HSL.
     --popover: 0 0% 100%;
     --popover-foreground: 222.2 84% 4.9%;
 
-    --primary: 222.2 47.4% 11.2%;
-    --primary-foreground: 210 40% 98%;
+    /* Shukhee primary color - purple/magenta */
+    --primary: 300 76% 32%;
+    --primary-foreground: 0 0% 100%;
 
     --secondary: 210 40% 96.1%;
     --secondary-foreground: 222.2 47.4% 11.2%;
@@ -38,20 +39,21 @@ All colors MUST be HSL.
 
     --radius: 0.5rem;
 
+    /* Shukhee brand colors */
+    --shukhee-purple: 300 76% 32%;
+    --shukhee-purple-light: 300 76% 40%;
+    --shukhee-teal: 175 76% 48%;
+    --shukhee-blue: 195 100% 45%;
+    --shukhee-gradient-start: 300 76% 32%;
+    --shukhee-gradient-end: 195 100% 45%;
+
     --sidebar-background: 0 0% 98%;
-
     --sidebar-foreground: 240 5.3% 26.1%;
-
     --sidebar-primary: 240 5.9% 10%;
-
     --sidebar-primary-foreground: 0 0% 98%;
-
     --sidebar-accent: 240 4.8% 95.9%;
-
     --sidebar-accent-foreground: 240 5.9% 10%;
-
     --sidebar-border: 220 13% 91%;
-
     --sidebar-ring: 217.2 91.2% 59.8%;
   }
 

@@ -57,6 +57,12 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        shukhee: {
+          purple: "hsl(var(--shukhee-purple))",
+          "purple-light": "hsl(var(--shukhee-purple-light))",
+          teal: "hsl(var(--shukhee-teal))",
+          blue: "hsl(var(--shukhee-blue))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
